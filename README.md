@@ -22,4 +22,4 @@ A responsive calculator web app built using HTML, CSS, and JavaScript. It perfor
 2. Open `index.html` in your browser
 
 ## Author
-Zeeshan Zainab
+ Zainab Zeeshan
